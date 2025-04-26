@@ -1,3 +1,2 @@
-loadstring(game:HttpGet("http://vpaste.net/YtYIN"))()
-loadstring(game:HttpGet("http://vpaste.net/XelCr"))()
+loadstring(game:HttpGet('https://dpaste.com/8ULVFQ97C.txt'))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ThanHub-GG/Bubble-Gum/refs/heads/main/loader"))()
